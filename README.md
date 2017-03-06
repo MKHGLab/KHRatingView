@@ -11,7 +11,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Requirements
 
-Suitable for X`code 8.2.1` (`swift 3.0.2`)
+Suitable for `Xcode 8.2.1 (swift 3.0.2`)
 
 
 ## Installation
@@ -24,7 +24,7 @@ pod "KHRatingView"
 ```
 
 ##Usage (Sample Program)
-```
+```Swift
 class ViewController: UIViewController {
 
 @IBOutlet weak var smoothRatingView: KHRatingView!
