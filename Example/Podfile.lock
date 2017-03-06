@@ -1,0 +1,16 @@
+PODS:
+  - KHRatingView (0.1.0)
+
+DEPENDENCIES:
+  - KHRatingView (from `../`)
+
+EXTERNAL SOURCES:
+  KHRatingView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  KHRatingView: b07151cf007aaeb4eb0bb302540d1db3deecf6d8
+
+PODFILE CHECKSUM: 404c462659058a9b88a4490d76231a7675dfb04a
+
+COCOAPODS: 1.1.1

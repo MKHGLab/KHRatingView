@@ -15,6 +15,7 @@
 		607FACDD1AFB9204008FA782 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDC1AFB9204008FA782 /* Images.xcassets */; };
 		607FACE01AFB9204008FA782 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 607FACDE1AFB9204008FA782 /* LaunchScreen.xib */; };
 		607FACEC1AFB9204008FA782 /* Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 607FACEB1AFB9204008FA782 /* Tests.swift */; };
+		D51CC27979AF75EE658E954B /* Pods_KHRatingView_Example_KHRatingView_Tests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 43CE4F241E798DD062350CF6 /* Pods_KHRatingView_Example_KHRatingView_Tests.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,10 +31,12 @@
 /* Begin PBXFileReference section */
 		00700A10DFEAE0347532DF0C /* Pods_KHRatingView_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KHRatingView_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		0628A66B7983F5EB5F6672F2 /* Pods_KHRatingView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KHRatingView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		2A133FDF972F9B518A18AF14 /* Pods-KHRatingView_Example-KHRatingView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KHRatingView_Example-KHRatingView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KHRatingView_Example-KHRatingView_Tests/Pods-KHRatingView_Example-KHRatingView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
+		43CE4F241E798DD062350CF6 /* Pods_KHRatingView_Example_KHRatingView_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_KHRatingView_Example_KHRatingView_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		4C256E830A63CB7D606FE831 /* Pods-KHRatingView_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KHRatingView_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-KHRatingView_Example/Pods-KHRatingView_Example.release.xcconfig"; sourceTree = "<group>"; };
-		4EC38C7411E29402BA6386CA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		4EC38C7411E29402BA6386CA /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		521784736B2699C999A8260E /* Pods-KHRatingView_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KHRatingView_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KHRatingView_Tests/Pods-KHRatingView_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		5F373A0307EB186ADFCEEE5D /* KHRatingView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = KHRatingView.podspec; path = ../KHRatingView.podspec; sourceTree = "<group>"; };
+		5F373A0307EB186ADFCEEE5D /* KHRatingView.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = KHRatingView.podspec; path = ../KHRatingView.podspec; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* KHRatingView_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KHRatingView_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACD51AFB9204008FA782 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -45,8 +48,9 @@
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
 		63375F14FDEEB9F702467E1B /* Pods-KHRatingView_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KHRatingView_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-KHRatingView_Example/Pods-KHRatingView_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		64A66AA90104D3A2D34E9C8C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		64A66AA90104D3A2D34E9C8C /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		D3319E1E64245CBAD41BA4F3 /* Pods-KHRatingView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KHRatingView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-KHRatingView_Tests/Pods-KHRatingView_Tests.release.xcconfig"; sourceTree = "<group>"; };
+		F9D97E5E9A9C8805BACDF276 /* Pods-KHRatingView_Example-KHRatingView_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-KHRatingView_Example-KHRatingView_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-KHRatingView_Example-KHRatingView_Tests/Pods-KHRatingView_Example-KHRatingView_Tests.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				583C9A04E206D4AA08405B93 /* Pods_KHRatingView_Tests.framework in Frameworks */,
+				D51CC27979AF75EE658E954B /* Pods_KHRatingView_Example_KHRatingView_Tests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +79,7 @@
 			children = (
 				00700A10DFEAE0347532DF0C /* Pods_KHRatingView_Example.framework */,
 				0628A66B7983F5EB5F6672F2 /* Pods_KHRatingView_Tests.framework */,
+				43CE4F241E798DD062350CF6 /* Pods_KHRatingView_Example_KHRatingView_Tests.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -155,6 +161,8 @@
 				4C256E830A63CB7D606FE831 /* Pods-KHRatingView_Example.release.xcconfig */,
 				521784736B2699C999A8260E /* Pods-KHRatingView_Tests.debug.xcconfig */,
 				D3319E1E64245CBAD41BA4F3 /* Pods-KHRatingView_Tests.release.xcconfig */,
+				2A133FDF972F9B518A18AF14 /* Pods-KHRatingView_Example-KHRatingView_Tests.debug.xcconfig */,
+				F9D97E5E9A9C8805BACDF276 /* Pods-KHRatingView_Example-KHRatingView_Tests.release.xcconfig */,
 			);
 			name = Pods;
 			sourceTree = "<group>";
@@ -306,7 +314,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-KHRatingView_Tests/Pods-KHRatingView_Tests-resources.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-KHRatingView_Example-KHRatingView_Tests/Pods-KHRatingView_Example-KHRatingView_Tests-resources.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 		6725A67F0A488A369F86D333 /* [CP] Copy Pods Resources */ = {
@@ -351,7 +359,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-KHRatingView_Tests/Pods-KHRatingView_Tests-frameworks.sh\"\n";
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-KHRatingView_Example-KHRatingView_Tests/Pods-KHRatingView_Example-KHRatingView_Tests-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
 		};
 /* End PBXShellScriptBuildPhase section */
@@ -447,6 +455,7 @@
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
 				SDKROOT = iphoneos;
+				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 			};
 			name = Debug;
@@ -486,6 +495,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				SDKROOT = iphoneos;
+				SWIFT_INSTALL_OBJC_HEADER = NO;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				VALIDATE_PRODUCT = YES;
 			};
@@ -496,11 +506,15 @@
 			baseConfigurationReference = 63375F14FDEEB9F702467E1B /* Pods-KHRatingView_Example.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = KHRatingView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
@@ -510,18 +524,21 @@
 			baseConfigurationReference = 4C256E830A63CB7D606FE831 /* Pods-KHRatingView_Example.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CLANG_ENABLE_MODULES = YES;
 				INFOPLIST_FILE = KHRatingView/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MODULE_NAME = ExampleApp;
 				PRODUCT_BUNDLE_IDENTIFIER = "org.cocoapods.demo.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_INSTALL_OBJC_HEADER = YES;
+				SWIFT_OBJC_BRIDGING_HEADER = "";
 				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
 		607FACF31AFB9204008FA782 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 521784736B2699C999A8260E /* Pods-KHRatingView_Tests.debug.xcconfig */;
+			baseConfigurationReference = 2A133FDF972F9B518A18AF14 /* Pods-KHRatingView_Example-KHRatingView_Tests.debug.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -541,7 +558,7 @@
 		};
 		607FACF41AFB9204008FA782 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = D3319E1E64245CBAD41BA4F3 /* Pods-KHRatingView_Tests.release.xcconfig */;
+			baseConfigurationReference = F9D97E5E9A9C8805BACDF276 /* Pods-KHRatingView_Example-KHRatingView_Tests.release.xcconfig */;
 			buildSettings = {
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",

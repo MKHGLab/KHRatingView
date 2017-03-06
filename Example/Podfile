@@ -4,8 +4,6 @@ target 'KHRatingView_Example' do
   pod 'KHRatingView', :path => '../'
 
   target 'KHRatingView_Tests' do
-    inherit! :search_paths
-
-    pod 'FBSnapshotTestCase'
+    pod 'KHRatingView', :path => '../'
   end
 end
