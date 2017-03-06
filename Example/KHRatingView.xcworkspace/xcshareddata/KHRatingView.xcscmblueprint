@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FBF80161CBD1135AA575033388BB6107D2858AE1",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "56FC60B8181B68E84669820B2BA187FCEAC7A563" : 9223372036854775807,
+    "FBF80161CBD1135AA575033388BB6107D2858AE1" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0E68F6AD-CCDB-4A43-B415-1FEFFCFB283B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "56FC60B8181B68E84669820B2BA187FCEAC7A563" : "",
+    "FBF80161CBD1135AA575033388BB6107D2858AE1" : "Example\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "KHRatingView",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KHRatingView.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MKHGLab\/KHRatingView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "56FC60B8181B68E84669820B2BA187FCEAC7A563"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MKHGLab\/KHRatingView.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FBF80161CBD1135AA575033388BB6107D2858AE1"
+    }
+  ]
+}
