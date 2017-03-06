@@ -22,11 +22,11 @@ KHRatingView is the easier way to deploy star rating to your project.
 This should make easy your rating task.
                        DESC
 
-  s.homepage         = 'https://github.com/mkhglab@gmail.com/KHRatingView'
+  s.homepage         = 'https://github.com/MKHGLab/KHRatingView'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'MKHG Lab' => 'mkhglab@gmail.com' }
-  s.source           = { :git => 'https://github.com/mkhglab@gmail.com/KHRatingView.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/MKHGLab/KHRatingView.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
